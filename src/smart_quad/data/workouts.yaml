@@ -1,0 +1,135 @@
+workouts:
+  - name: "Rehab Workout 1"
+    category: "rehab"
+    muscles:
+      chest: 1
+      shoulders: 6
+      triceps: 2
+      lats: 1
+      biceps: 4
+      core: 8
+      quadriceps: 8
+      hamstrings: 6
+      glutes: 9
+      calves: 4
+
+
+  - name: "Rehab Workout 2"
+    category: "Rehab_2"
+    muscles:
+      chest: 1
+      shoulders: 8
+      triceps: 4
+      lats: 1
+      biceps: 4
+      core: 8
+      quadriceps: 8
+      hamstrings: 6
+      glutes: 8
+      calves: 6
+
+
+  - name: "Planche Routine"
+    category: "skill"
+    muscles:
+      chest: 8
+      shoulders: 10
+      triceps: 8
+      lats: 6
+      biceps: 4
+      core: 10
+      quadriceps: 1
+      hamstrings: 4
+      glutes: 2
+      calves: 1
+
+
+  - name: "Backlever"
+    category: "skill"
+    muscles:
+      chest: 6
+      shoulders: 9
+      triceps: 7
+      lats: 9
+      biceps: 7
+      core: 9
+      quadriceps: 1
+      hamstrings: 2
+      glutes: 3
+      calves: 1
+
+
+  - name: "Frontlever"
+    category: "skill"
+    muscles:
+      chest: 5
+      shoulders: 7
+      triceps: 5
+      lats: 10
+      biceps: 7
+      core: 10
+      quadriceps: 1
+      hamstrings: 2
+      glutes: 3
+      calves: 1
+
+
+  - name: "Push"
+    category: "strength"
+    muscles:
+      chest: 10
+      shoulders: 9
+      triceps: 9
+      lats: 1
+      biceps: 2
+      core: 5
+      quadriceps: 1
+      hamstrings: 1
+      glutes: 1
+      calves: 1
+
+
+  - name: "Pull"
+    category: "strength"
+    muscles:
+      chest: 3
+      shoulders: 6
+      triceps: 2
+      lats: 10
+      biceps: 8
+      core: 7
+      quadriceps: 3
+      hamstrings: 8
+      glutes: 8
+      calves: 1
+
+
+  - name: "Bein / Sprungkraft"
+    category: "strength"
+    muscles:
+      chest: 1
+      shoulders: 1
+      triceps: 1
+      lats: 1
+      biceps: 1
+      core: 8
+      quadriceps: 10
+      hamstrings: 7
+      glutes: 9
+      calves: 9
+
+
+  - name: "V-Sit Routine"
+    category: "skill"
+    muscles:
+      chest: 3
+      shoulders: 3
+      triceps: 3
+      lats: 3
+      biceps:
+      core: 10
+      quadriceps: 7
+      hamstrings: 2
+      glutes: 3
+      calves: 1
+
