@@ -1,6 +1,10 @@
-MAX_MUSCLE_LOAD = 10
+from __future__ import annotations
 
-VALID_MUSCLES = {
+from typing import Final
+
+MAX_MUSCLE_LOAD: Final[int] = 10
+
+VALID_MUSCLES: Final[set[str]] = {
     "chest",
     "shoulders",
     "lats",
@@ -12,3 +16,7 @@ VALID_MUSCLES = {
     "glutes",
     "calves",
 }
+
+HISTORY_JSON_NAME: Final[str] = "training_history.json"
+
+
